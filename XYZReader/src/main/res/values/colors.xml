@@ -16,10 +16,11 @@
 -->
 
 <resources>
-    <color name="photo_placeholder">#ccc</color>
+    <color name="photo_placeholder">#F44336</color>
 
-    <color name="theme_primary">#04561A</color>
-    <color name="theme_primary_dark">#04561A</color>
-    <color name="theme_accent">#04561A</color>
+    <color name="theme_primary">#FFCDD2</color>
+    <color name="theme_primary_dark">#D50000</color>
+    <color name="theme_accent">#FFEB3B</color>
     <color name="ltgray">#ffe0e0e0</color>
+    <color name="ltgreen">#1B5E20</color>
 </resources>

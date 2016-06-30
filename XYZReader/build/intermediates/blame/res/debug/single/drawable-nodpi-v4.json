@@ -6,5 +6,9 @@
     {
         "merged": "/Users/Heng/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-nodpi-v4/empty_detail.png",
         "source": "/Users/Heng/AndroidStudioProjects/xyzreader/XYZReader/src/main/res/drawable-nodpi/empty_detail.png"
+    },
+    {
+        "merged": "/Users/hengyang/AndroidStudioProjects/Udacity_ND_P5/XYZReader/build/intermediates/res/merged/debug/drawable-nodpi-v4/empty_detail.png",
+        "source": "/Users/hengyang/AndroidStudioProjects/Udacity_ND_P5/XYZReader/src/main/res/drawable-nodpi/empty_detail.png"
     }
 ]

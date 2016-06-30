@@ -6,5 +6,9 @@
     {
         "merged": "/Users/Heng/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout-v11/abc_screen_content_include.xml",
         "source": "/Users/Heng/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout-v11/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/hengyang/AndroidStudioProjects/Udacity_ND_P5/XYZReader/build/intermediates/res/merged/debug/layout-v11/abc_screen_content_include.xml",
+        "source": "/Users/hengyang/AndroidStudioProjects/Udacity_ND_P5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout-v11/abc_screen_content_include.xml"
     }
 ]

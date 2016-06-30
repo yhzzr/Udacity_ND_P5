@@ -8,11 +8,19 @@
         "source": "/Users/Heng/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-tvdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
+        "merged": "/Users/hengyang/AndroidStudioProjects/Udacity_ND_P5/XYZReader/build/intermediates/res/merged/debug/drawable-tvdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "/Users/hengyang/AndroidStudioProjects/Udacity_ND_P5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-tvdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
         "merged": "/Users/Heng/Downloads/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-tvdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png",
         "source": "/Users/Heng/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-tvdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
         "merged": "/Users/Heng/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-tvdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png",
         "source": "/Users/Heng/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-tvdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/Users/hengyang/AndroidStudioProjects/Udacity_ND_P5/XYZReader/build/intermediates/res/merged/debug/drawable-tvdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "/Users/hengyang/AndroidStudioProjects/Udacity_ND_P5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable-tvdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
     }
 ]

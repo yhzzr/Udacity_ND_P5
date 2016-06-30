@@ -4,6 +4,10 @@
         "source": "/Users/Heng/Downloads/xyzreader/XYZReader/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
     },
     {
+        "merged": "/Users/hengyang/AndroidStudioProjects/Udacity_ND_P5/XYZReader/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/ic_launcher.png",
+        "source": "/Users/hengyang/AndroidStudioProjects/Udacity_ND_P5/XYZReader/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
         "merged": "/Users/Heng/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/ic_launcher.png",
         "source": "/Users/Heng/AndroidStudioProjects/xyzreader/XYZReader/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
     }

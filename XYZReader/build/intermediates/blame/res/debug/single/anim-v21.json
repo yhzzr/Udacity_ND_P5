@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/hengyang/AndroidStudioProjects/Udacity_ND_P5/XYZReader/build/intermediates/res/merged/debug/anim-v21/fab_state_list_anim.xml",
+        "source": "/Users/hengyang/AndroidStudioProjects/Udacity_ND_P5/XYZReader/src/main/res/anim-v21/fab_state_list_anim.xml"
+    },
+    {
         "merged": "/Users/Heng/Downloads/xyzreader/XYZReader/build/intermediates/res/merged/debug/anim-v21/fab_state_list_anim.xml",
         "source": "/Users/Heng/Downloads/xyzreader/XYZReader/src/main/res/anim-v21/fab_state_list_anim.xml"
     },
