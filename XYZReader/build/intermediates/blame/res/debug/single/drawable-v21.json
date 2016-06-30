@@ -1,14 +1,6 @@
 [
     {
-        "merged": "/Users/Heng/Downloads/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-v21/white_selectable_item_background_circle.xml",
-        "source": "/Users/Heng/Downloads/xyzreader/XYZReader/src/main/res/drawable-v21/white_selectable_item_background_circle.xml"
-    },
-    {
-        "merged": "/Users/Heng/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-v21/white_selectable_item_background_circle.xml",
-        "source": "/Users/Heng/AndroidStudioProjects/xyzreader/XYZReader/src/main/res/drawable-v21/white_selectable_item_background_circle.xml"
-    },
-    {
-        "merged": "/Users/hengyang/AndroidStudioProjects/Udacity_ND_P5/XYZReader/build/intermediates/res/merged/debug/drawable-v21/white_selectable_item_background_circle.xml",
-        "source": "/Users/hengyang/AndroidStudioProjects/Udacity_ND_P5/XYZReader/src/main/res/drawable-v21/white_selectable_item_background_circle.xml"
+        "merged": "/Users/Heng/AndroidStudioProjects/Udacity_ND_P5/XYZReader/build/intermediates/res/merged/debug/drawable-v21/white_selectable_item_background_circle.xml",
+        "source": "/Users/Heng/AndroidStudioProjects/Udacity_ND_P5/XYZReader/src/main/res/drawable-v21/white_selectable_item_background_circle.xml"
     }
 ]

@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/Heng/Downloads/xyzreader/XYZReader/build/intermediates/res/merged/debug/values-w720dp-v13/values-w720dp-v13.xml",
+        "outputFile": "/Users/Heng/AndroidStudioProjects/Udacity_ND_P5/XYZReader/build/intermediates/res/merged/debug/values-w720dp-v13/values-w720dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,55 +11,7 @@
                     "endOffset": 127
                 },
                 "from": {
-                    "file": "/Users/Heng/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-w720dp-v13/values.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 278,
-                        "endColumn": 76,
-                        "endOffset": 350
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "/Users/Heng/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/res/merged/debug/values-w720dp-v13/values-w720dp-v13.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 76,
-                    "endOffset": 127
-                },
-                "from": {
-                    "file": "/Users/Heng/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-w720dp-v13/values.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 278,
-                        "endColumn": 76,
-                        "endOffset": 350
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "/Users/hengyang/AndroidStudioProjects/Udacity_ND_P5/XYZReader/build/intermediates/res/merged/debug/values-w720dp-v13/values-w720dp-v13.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 76,
-                    "endOffset": 127
-                },
-                "from": {
-                    "file": "/Users/hengyang/AndroidStudioProjects/Udacity_ND_P5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-w720dp/values-w720dp.xml",
+                    "file": "/Users/Heng/AndroidStudioProjects/Udacity_ND_P5/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-w720dp/values-w720dp.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
