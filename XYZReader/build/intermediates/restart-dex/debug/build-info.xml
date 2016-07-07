@@ -4,12 +4,12 @@
     api-level="23"
     density="420dpi"
     format="7"
-    timestamp="62011481421759"
+    timestamp="220366752411222"
     token="1946559752099332263" >
 
     <task
         name="javac"
-        duration="488" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
@@ -21,13 +21,18 @@
         duration="0" />
 
     <artifact
-        location="/Users/Heng/AndroidStudioProjects/Udacity_ND_P5/XYZReader/build/outputs/apk/XYZReader-debug.apk"
-        type="MAIN" />
+        location="/Users/Heng/AndroidStudioProjects/Udacity_ND_P5/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
+        type="DEX" />
 
-    <build timestamp="62011481421759" >
+    <build timestamp="220271337905320" >
         <artifact
             location="/Users/Heng/AndroidStudioProjects/Udacity_ND_P5/XYZReader/build/outputs/apk/XYZReader-debug.apk"
             type="MAIN" />
+    </build>
+    <build timestamp="220366752411222" >
+        <artifact
+            location="/Users/Heng/AndroidStudioProjects/Udacity_ND_P5/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
+            type="DEX" />
     </build>
 
 </instant-run>
